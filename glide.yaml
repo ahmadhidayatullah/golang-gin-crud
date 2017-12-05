@@ -1,0 +1,6 @@
+package: golang-gin-crud
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.2
+- package: github.com/go-sql-driver/mysql
+- package: github.com/jinzhu/gorm
